@@ -7,4 +7,4 @@ while a!=b :
     cnt += 1
 
 print(cnt)
-##
+###
