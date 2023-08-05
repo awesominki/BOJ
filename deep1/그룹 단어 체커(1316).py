@@ -16,6 +16,7 @@ for i in range(n):
             check = 0
             break
 
+
     if check == 1:
         result = result + 1
 print(result)
